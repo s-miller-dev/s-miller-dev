@@ -30,7 +30,7 @@ Reusable Terraform modules and automation scripts for managing cloud infrastruct
 
 ### Kubernetes Operations
 
-Tools and configurations for deploying and maintaining Kubernetes environments.
+Tools and configurations for deploying and maintaining cloud infrastructure.
 
 ### DevOps Utilities
 
@@ -38,37 +38,81 @@ A collection of scripts and utilities created to automate repetitive infrastruct
 
 ---
 
-## Repository History
+# 🔎 Operation Ghost Employee
 
-Some of my older work has been cleaned up or archived over time.
+If you arrived here as part of the **fsociety investigation**, you've found the correct account.
 
-If you're investigating one of my older projects, **check the repository's commit history**. Previous versions may contain information that is no longer visible in the current files.
+Evil Corp has attempted to remove public information about a confidential project and the people associated with it. Some of that information may still exist in older versions of my repositories.
+
+### Objective
+
+Identify the **former Evil Corp employee** who may have been connected to the external partner and determine the **codename of the confidential project** they were involved with.
+
+### Investigation
+
+The information needed for this investigation is available through the public history of this repository.
+
+**Check the repository's commit history.**
+
+Older commits may contain information that was later removed from the current version of the repository.
+
+Look through the previous commits and compare older versions of the files with the current version.
+
+Your goal is to uncover the missing information and identify the confidential project's codename.
+
+### Flag Format
+
+Submit the flag using the following format:
+
+```text
+RedCypher{Project_<Codename>}
+```
 
 ---
 
-## Challenge Progress
+# Next challenge: 📂 The FAX Coordinator
 
-If you arrived here as part of the **fsociety investigation**, you've found the right account.
+Once the project investigation points you toward the **FAX** initiative, the next stage of the investigation begins.
 
-The information needed to identify the confidential project is hidden in the **history of this repository**.
+Evil Corp's external file server has yielded a collection of routine corporate documents. At first glance, the recovered files appear harmless:
 
-**Check the previous commits and look for the removed project information.**
+* Weekly emails
+* Internal directories
+* Organizational charts
+* Archived administrative records
+* Other routine corporate documents
 
-Once you have identified the project codename, continue to the next stage of the investigation:
+However, intelligence suggests that **FAX is still active** and is currently being coordinated by someone working inside Evil Corp.
 
-### Operation Complete → Continue to Challenge 3
+No single document directly identifies this person.
 
-The next challenge is:
+Instead, information has been scattered across multiple recovered artifacts. The pieces must be correlated to reconstruct a complete personnel profile.
 
-# The FAX Coordinator
+### Your Mission
 
-You will need to investigate a collection of recovered Evil Corp documents and identify the employee currently responsible for the **FAX** initiative.
+Examine the recovered documents and:
 
-**Challenge 3 files:**
-👉 **[Download the FAX Coordinator challenge files](PASTE-YOUR-ZIP-LINK-HERE)**
+1. Identify the employee responsible for the FAX initiative.
+2. Correlate the information scattered across the files.
+3. Reconstruct the employee's identity and personnel profile.
+4. Identify the internal target connected to the project.
+
+Remember:
+
+> **Not every file is immediately accessible.**
+> **Not every document tells the whole story.**
+> **Not every clue is where you expect it to be.**
+
+---
+
+## 📦 Challenge Files
+
+The recovered files for **The FAX Coordinator** are available here:
+
+👉 **[Download The FAX Coordinator challenge files](PASTE-YOUR-ZIP-LINK-HERE)**
+
+---
 
 Good luck, investigator.
-
----
 
 <sub>Sarah Millers — Senior Cloud Infrastructure Engineer</sub>
