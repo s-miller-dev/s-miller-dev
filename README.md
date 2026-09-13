@@ -109,7 +109,7 @@ Remember:
 
 The recovered files for **The FAX Coordinator** are available here:
 
-👉 **[Download The FAX Coordinator challenge files](PASTE-YOUR-ZIP-LINK-HERE)**
+👉 **[Download The FAX Coordinator challenge files](https://drive.google.com/file/d/1AiqWuoIcE1MVU0lOqnicmkQ55McK52vF/view?usp=sharing)**
 
 ---
 
